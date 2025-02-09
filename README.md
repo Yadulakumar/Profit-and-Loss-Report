@@ -12,7 +12,7 @@ This project focuses on analyzing sales data to provide actionable insights thro
 2. [Market Performance vs. Sales Targets – Comparing actual sales with market benchmarks and sales targets]https://github.com/Yadulakumar/Sales-Analysis/blob/main/market%20performance%20vs%20targer%20report.pdf
 3. [Top 10 Products Report – Identifying the best-performing products based on sales volume and revenue]https://github.com/Yadulakumar/Sales-Analysis/blob/main/top%2010%20products%20report.pdf
 4. [Division-wise Sales Report – Analyzing sales performance across different business divisions]https://github.com/Yadulakumar/Sales-Analysis/blob/main/division%20report.pdf
-5. Top and Bottom Products in Quantity – Identifying the highest and lowest-selling products.
+5. [Top and Bottom Products in Quantity – Identifying the highest and lowest-selling products]https://github.com/Yadulakumar/Sales-Analysis/blob/main/top%20and%20bottom%20products%20qty%20report.pdf
 6. [New Products Report – Tracking the sales performance of recently launched products]https://github.com/Yadulakumar/Sales-Analysis/blob/main/new%20products%20report.pdf
 7. [Top 5 Countries Report – Highlighting the best-performing countries based on sales data]https://github.com/Yadulakumar/Sales-Analysis/blob/main/top%205%20country%20report.pdf
 
