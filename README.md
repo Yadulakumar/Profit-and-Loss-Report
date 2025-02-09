@@ -8,7 +8,7 @@ This project provides a comprehensive analysis of sales data to help businesses 
 
 This project focuses on analyzing sales data to provide actionable insights through various reports. The key objectives include:
 
-1. Customer Performance Report – Evaluating customer purchase behavior and performance.file:///C:/Users/kn940/AppData/Local/Microsoft/Windows/INetCache/IE/AW9RYH9C/customer_performace_report[2].pdf
+1. [Customer Performance Report – Evaluating customer purchase behavior and performance]https://github.com/Yadulakumar/Sales-Analysis/blob/main/customer%20performace%20report.pdf
 2. Market Performance vs. Sales Targets – Comparing actual sales with market benchmarks and sales targets.
 3. Top 10 Products Report – Identifying the best-performing products based on sales volume and revenue.
 4. Division-wise Sales Report – Analyzing sales performance across different business divisions.
