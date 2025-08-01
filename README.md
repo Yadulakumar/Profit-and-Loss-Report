@@ -7,7 +7,7 @@ This project combines financial and sales data analysis to provide comprehensive
 ## Project Objectives
 
 ### Finance Analysis Objectives
-- **Profit & Loss (P&L) Yearly Report:** Analyze annual financial performance, including revenue, expenses, and net profit.
+- **Profit & Loss (P&L) Yearly Report:** Analyze annual financial performance, including revenue, expenses, and net profit https://github.com/Yadulakumar/Profit-and-Loss-Report/blob/main/P%20%26%20L%20Year%20report.pdf 
 - **Profit & Loss (P&L) Monthly Report:** Track financial performance monthly to identify trends.
 - **Profit & Loss (P&L) Yearly Market Report:** Compare financial performance across market segments annually.
 - **Gross Margin Percentage (GM%) Sub-Zone Report:** Evaluate profitability across different business sub-zones.
