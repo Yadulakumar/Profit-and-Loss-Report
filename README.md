@@ -7,19 +7,19 @@ This project combines financial and sales data analysis to provide comprehensive
 ## Project Objectives
 
 ### Finance Analysis Objectives
-- **Profit & Loss (P&L) Yearly Report:** Analyze annual financial performance, including revenue, expenses, and net profit https://github.com/Yadulakumar/Profit-and-Loss-Report/blob/main/P%20%26%20L%20Year%20report.pdf 
-- **Profit & Loss (P&L) Monthly Report:** Track financial performance monthly to identify trends.
-- **Profit & Loss (P&L) Yearly Market Report:** Compare financial performance across market segments annually.
-- **Gross Margin Percentage (GM%) Sub-Zone Report:** Evaluate profitability across different business sub-zones.
+- **Profit & Loss (P&L) Yearly Report:** Analyze annual financial performance, including revenue, expenses, and net profit https://github.com/Yadulakumar/Profit-and-Loss-Report/blob/main/P%20%26%20L%20Year%20report.pdf .
+- **Profit & Loss (P&L) Monthly Report:** Track financial performance monthly to identify trends https://github.com/Yadulakumar/Profit-and-Loss-Report/blob/main/P%20%26%20L%20Months%20report.pdf .
+- **Profit & Loss (P&L) Yearly Market Report:** Compare financial performance across market segments annually https://github.com/Yadulakumar/Profit-and-Loss-Report/blob/main/P%20%26%20L%20Year%20market%20%20report.pdf .
+- **Gross Margin Percentage (GM%) Sub-Zone Report:** Evaluate profitability across different business sub-zones https://github.com/Yadulakumar/Profit-and-Loss-Report/blob/main/GM%20%25%20sub%20Zone%20report.pdf .
 
 ### Sales Analysis Objectives
-- **Customer Performance Report:** Evaluate customer purchase behavior and performance.
-- **Market Performance vs. Sales Targets Report:** Compare actual sales to market benchmarks and targets.
-- **Top 10 Products Report:** Identify best-performing products by sales volume and revenue.
-- **Division-wise Sales Report:** Analyze sales performance across business divisions.
-- **Top and Bottom Products Report:** Identify highest and lowest-selling products.
-- **New Products Sales Report:** Track sales performance of newly launched products.
-- **Top 5 Countries Report:** Highlight best-performing countries based on sales data.
+- **Customer Performance Report:** Evaluate customer purchase behavior and performance https://github.com/Yadulakumar/Profit-and-Loss-Report/blob/main/customer%20performace%20report.pdf .
+- **Market Performance vs. Sales Targets Report:** Compare actual sales to market benchmarks and targets https://github.com/Yadulakumar/Profit-and-Loss-Report/blob/main/market%20performance%20vs%20targer%20report.pdf .
+- **Top 10 Products Report:** Identify best-performing products by sales volume and revenue https://github.com/Yadulakumar/Profit-and-Loss-Report/blob/main/top%2010%20products%20report.pdf .
+- **Division-wise Sales Report:** Analyze sales performance across business divisions https://github.com/Yadulakumar/Profit-and-Loss-Report/blob/main/division%20report.pdf .
+- **Top and Bottom Products Report:** Identify highest and lowest-selling products https://github.com/Yadulakumar/Profit-and-Loss-Report/blob/main/top%20and%20bottom%20products%20qty%20report.pdf .
+- **New Products Sales Report:** Track sales performance of newly launched products https://github.com/Yadulakumar/Profit-and-Loss-Report/blob/main/new%20products%20report.pdf .
+- **Top 5 Countries Report:** Highlight best-performing countries based on sales data https://github.com/Yadulakumar/Profit-and-Loss-Report/blob/main/top%205%20country%20report.pdf .
 
 ## Purpose of Financial and Sales Analysis
 
